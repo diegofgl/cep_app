@@ -11,4 +11,4 @@
 - A visibilidade condicional de widgets, como o Visibility, é utilizada para exibir ou ocultar elementos da interface com base em condições, como a conclusão da busca.
 - O CircularProgressIndicator é empregado para indicar visualmente o carregamento de dados.
 
-![GravacaodeTela2024-01-11as14 16 24-ezgif com-video-to-gif-converter](https://github.com/diegofgl/cep_app/assets/122054408/03f18495-e72f-4999-9ef8-affc7251fa79)
+![GravacaodeTela2024-01-11as14 16 24-ezgif com-video-to-gif-converter (2)](https://github.com/diegofgl/cep_app/assets/122054408/b175d48b-3bcd-40ba-815a-a50beb09d52b)
